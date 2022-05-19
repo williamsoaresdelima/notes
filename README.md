@@ -38,7 +38,7 @@ The project should be added to a public Git repository in any Git host and the l
 > React
 - 17.0.2
 
-# How Install
+# How Install and Execute
 
 After cloning the repository follow the steps below:
 
