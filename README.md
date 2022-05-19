@@ -52,5 +52,7 @@ After cloning the repository follow the steps below:
 - npm install
 - npm start
 
+# Postman Collection
+- included in the project root in the assets folder
 
 
