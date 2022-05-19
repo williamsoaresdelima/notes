@@ -30,10 +30,27 @@ The project should be added to a public Git repository in any Git host and the l
 # Stack
 
 > Node
--
+- 16.13.2
 
 > Next.js
--
+- 12.1
 
 > React
--
+- 17.0.2
+
+# How Install
+
+After cloning the repository follow the steps below:
+
+> Back-end
+- cd api
+- npm install
+- npm start:dev
+
+> Front-end
+- cd ui
+- npm install
+- npm start
+
+
+
