@@ -30,13 +30,16 @@ The project should be added to a public Git repository in any Git host and the l
 # Stack
 
 > Node
-- 16.13.2
+- v16.13.2
 
 > Next.js
-- 12.1
+- v12.1
 
 > React
-- 17.0.2
+- v17.0.2
+
+> SQLite
+- v3.38.5 
 
 # How Install and Execute
 
@@ -52,5 +55,7 @@ After cloning the repository follow the steps below:
 - npm install
 - npm start
 
+# Postman Collection
+- included in the project root in the assets folder
 
 
